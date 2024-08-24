@@ -1,1 +1,1 @@
-A alternative to all furry social network platforms.
+An alternative to all furry social network platforms.
